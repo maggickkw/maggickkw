@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a fullstack developer from Accra, Ghana<br><br>I am currently working on later_auction.
+I am a fullstack developer from Accra, Ghana<br><br>I am currently working on a couple of projetcs.
 
 
 ## 🌐 Socials:
