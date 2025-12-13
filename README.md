@@ -1,2 +1,2 @@
 # 💫 About Me:
-I am a fullstack developer from Accra, Ghana.
+I figure out how to build things, normally doesn't matter what, I will figure it out.
